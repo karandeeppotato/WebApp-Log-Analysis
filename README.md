@@ -84,8 +84,6 @@ randomize.ps1    # PowerShell script to generate random logs
 README.md
 ```
 You can find the sample log file in log-gen directory
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 - Elasticsearch and Kibana documentation.
