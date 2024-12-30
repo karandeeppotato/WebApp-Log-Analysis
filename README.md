@@ -56,10 +56,11 @@ This project uses the ELK Stack (Elasticsearch, Logstash, and Kibana) to analyze
 - View real-time logs and visualizations in Kibana.
 
 ## Visualizations
-- **Line Chart**: Registrations over time.
-- **Bar Chart**: Comparison of successful vs. failed logins.
-- **Heatmap**: Failed login attempts by time of day.
+- **Line Chart**: Failed Logins over time.
+- **Bar Chart**: Frequency of Registartions, Logins and Password Resets over time.
+- **Metrics**: Number of Records.
 - **Pie Chart**: Distribution of different event types.
+- **Vertical Guage**: Registartions hit over time.
 
 ### Example Screenshots
 ![Kibana Dashboard](https://i.imgur.com/AjQePEH.png)
